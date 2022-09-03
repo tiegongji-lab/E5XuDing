@@ -7,5 +7,7 @@
      * 查询系api：onedrive,outkook,notebook,site等
      * 创建系api: 自动发送邮件，上传文件，修改excel等
  
- * 教程地址: https://www.vvhan.com/officeE5-AutoApi.html
+ - 微软方面的准备工作 （获取应用id、密码、密钥）
+ - GIHTHUB方面的准备工作 （获取Github密钥、设置secret）
+ - 试运行
  * 冲冲冲！！！
